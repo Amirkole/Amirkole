@@ -1,4 +1,5 @@
 pyrogram
+img2pdf
 jdatetime
 wikipedia
 requests
