@@ -20,4 +20,5 @@ aiohttp
 aiofiles
 datetime
 prettytable
+youtube-search-python
 
