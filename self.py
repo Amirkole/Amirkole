@@ -949,7 +949,7 @@ async def v2dl11(bot, m:Message):
     link = m.text.split(None, 1)[1]
     yt = pytube.YouTube(link)
     yrs = yt.streams.get_highest_resolution().download()
-    await m.reply.video(yrs)
+    await m.reply_video(yrs)
 
 
 
