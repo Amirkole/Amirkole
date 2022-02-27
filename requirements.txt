@@ -10,17 +10,13 @@ psutil
 countryinfo
 justwatch
 html
-json
 pytz
 jdatatime
 shutil
 urllib
 pyfiglet
 telegraph
-youtube_dl
-io 
-os
-sys 
+youtube_dl 
 traceback
 aiohttp
 aiofiles
@@ -28,5 +24,4 @@ math
 datetime
 prettytable
 random
-contextlib
 
