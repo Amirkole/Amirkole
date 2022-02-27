@@ -16,7 +16,6 @@ telegraph
 youtube_dl 
 aiohttp
 aiofiles
-math
 datetime
 prettytable
 random
