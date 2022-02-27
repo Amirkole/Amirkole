@@ -1,7 +1,6 @@
 pyrogram
 wikipedia
 requests
-platform
 asyncio
 wget
 yt_dlp
