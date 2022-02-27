@@ -14,7 +14,6 @@ pytz
 pyfiglet
 telegraph
 youtube_dl 
-traceback
 aiohttp
 aiofiles
 math
